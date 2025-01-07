@@ -1,0 +1,8 @@
+8a50a33f7fd91df4 7     24    15    0     40    17 51 25 0 0.780 # Sessions (NumGC > 20)
+1f20835f09e28706 5     35    23    0     67    8 77 36 3 0.765 # Session/ The number of border cells/ Grid cells/ HD cells/ OV cells/ Other cells/ AUC
+0de4b55d27c9f60f 4     50    114   0     94    10 138 228 0 0.728
+8f7ddffaf4a5f4c5 3     25    8     0     41    3 28 12 0 0.707
+7e888f1d8eaab46b 12    62    28    0     117   14 46 41 0 0.674
+5b92b96313c3fc19 10    42    14    0     50    15 77 55 0 0.647
+59825ec5641c94b4 4     63    20    3     117   11 71 27 0 0.617
+c221438d58a0b796 8     62    17    0     106   16 35 29 0 0.485
