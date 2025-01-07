@@ -1,2 +1,2 @@
 # CP-definition
-Code for "Inferring spatial cell types: Population correlation matrices beyond spatial tuning"
+Code for "Beyond spatial tuning: A network approach for classifying spatial neurons"
